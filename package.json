@@ -12,10 +12,10 @@
     ],
     "author": "Stanislav Kalashnik <ryuske.kun@gmail.com>",
     "license": "ISC",
-    "repository" :
-    { "type" : "git"
-      , "url" : "https://github.com/athe0i/drugstore-di"
-    }
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/athe0i/drugstore-di"
+    },
     "dependencies": {
         "lodash": "^4.16.4"
     },
