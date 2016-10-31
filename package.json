@@ -1,0 +1,21 @@
+{
+  "name": "drugstore-di",
+  "version": "0.0.1",
+  "description": "Dependency Injection library that makes you happy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "di",
+    "dependency-injection"
+  ],
+  "author": "Stanislav Kalashnik <ryuske.kun@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.16.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
